@@ -9,6 +9,7 @@ bidding_finish = False
 
 
 def find_highest_bidder(bidding_record):
+    winner = ""
     highest_bid = 0
     # loop on bidding_record
     for bidder in bidding_record:
@@ -29,4 +30,3 @@ while not bidding_finish:
         find_highest_bidder(bids)
     elif should_continue == "yes":
         clear()
-
