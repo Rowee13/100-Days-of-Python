@@ -56,3 +56,6 @@ def calculator():
 
 
 calculator()
+
+
+# bug: does not stop when you restart the calculation. Instead, it is looping over again to continue the calculation
