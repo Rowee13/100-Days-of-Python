@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d3889a2-3ccf-44bd-ab32-48bb0a09b172" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY-12-guess-the-number-game/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-12-guess-the-number-game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY-14-higher-lower-game/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY-14-higher-lower-game/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY-14-higher-lower-game/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-01/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-01-band-name-generator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-02/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-02-tip-calculator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-03/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-03-treasure-island-game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-04/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-04-rock-paper-scissor-game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-05/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-05-password-generator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-07/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-07-hangman-game/hangman_art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-07/hangman_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-07-hangman-game/hangman_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-07/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-07-hangman-game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-08/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-08-caesar-cipher/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-08/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-08-caesar-cipher/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-09/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-09-secret-auction-program/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-09/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-09-secret-auction-program/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-10/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-10-calculator/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-10-calculator/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-11/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-11-blackjack-game/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY-11/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DAY-11-blackjack-game/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +31,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main (4)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +95,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAY-14-higher-lower-game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAY-14-higher-lower-game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100-Days-of-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,42 +158,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main(5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="100-Days-of-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DAY-09" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DAY-09/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (4)" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (5)" />
       <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.main(5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (5)" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main(5)" />
       </list>
     </recent_temporary>
   </component>
