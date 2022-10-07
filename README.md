@@ -20,7 +20,8 @@ Day 10 - Calculator
 Day 11 - Blackjack Game  
 Day 12 - Guess the Number Game  
 Day 13 - Debugging skills (No code challenge)  
-Day 14 - Higher Lower Game
+Day 14 - Higher Lower Game  
+Day 15 - Coffee Machine
   
 <br>
 
