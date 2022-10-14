@@ -21,7 +21,9 @@ Day 11 - Blackjack Game
 Day 12 - Guess the Number Game  
 Day 13 - Debugging skills (No code challenge)  
 Day 14 - Higher Lower Game  
-Day 15 - Coffee Machine
+Day 15 - Coffee Machine  
+Day 16 - Coffee Machine OOP version  
+Day 17 - The Quiz Game Project (OOP)  
   
 <br>
 
