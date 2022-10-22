@@ -28,6 +28,7 @@ Day 18 - Hirst Painting Project using turtle package and GUI
 Day 19 - Turtle Racing Game  
 Day 20 - Snake Game  
 Day 21 - Completed Snake Game  
+Day 22 - Pong Arcade Game  
 
   
 <br>

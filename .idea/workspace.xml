@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d3889a2-3ccf-44bd-ab32-48bb0a09b172" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DAY-22-pong-arcade-game/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-22-pong-arcade-game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-22-pong-arcade-game/paddle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY-22-pong-arcade-game/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
